@@ -17,12 +17,13 @@
 
 <script>
 import TheHeader from './TheHeader'
-// import TheFooter from './TheFooter'
+import TheFooter from './TheFooter'
 
 export default {
   name: 'Default',
   components: {
     TheHeader,
+    TheFooter,
   },
   computed: {
     existsHeader() {

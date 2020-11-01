@@ -33,6 +33,7 @@ export default {}
   background-color: #fff;
   left: 70%;
   margin: 0;
+  min-width: 400px;
   opacity: 0.3;
   padding: 100px 50px;
   position: absolute;
@@ -49,7 +50,7 @@ export default {}
 
 .hero_title {
   font-family: $quicksand;
-  font-size: 5rem;
+  font-size: 6rem;
   margin: 0 auto 20px;
 }
 </style>
